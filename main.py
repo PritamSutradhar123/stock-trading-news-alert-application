@@ -5,12 +5,12 @@ from email.mime.multipart import  MIMEMultipart
 from email.mime.text import MIMEText
 
 STOCK = "TSLA"
-COMPANY_NAME = "tesla "
-STOCK_API_KEY = "6FEELCPJBYLQ0H7J"
-NEWS_API_KEY = "7305be6b4d9241478d63a178e835d36c"
-MY_EMAIL = "t92066369@gmail.com"
-PASSWORD = "wjpmwjfafqcnqdlo"  # Replace with your App Password
-TO_EMAIL = "test392@myyahoo.com"
+COMPANY_NAME = "tesla"
+STOCK_API_KEY = "<>"
+NEWS_API_KEY = "<>"
+MY_EMAIL = "<>"
+PASSWORD = "<>"  # Replace with your App Password
+TO_EMAIL = "<>"
 
 
 
