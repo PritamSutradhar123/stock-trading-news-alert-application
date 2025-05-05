@@ -89,7 +89,7 @@ if now.weekday() in [0,1,6] and "one"=="t":
 else:
     TMS_data_yesterday = TMS_data[str(yesterday.date())]
     TMS_data_day_before_yesterday = TMS_data[str(day_before_yesterday.date())]
-    difference(float(TMS_data_yesterday['4. close'])+8,float(TMS_data_day_before_yesterday['4. close']))
+    difference(float(TMS_data_yesterday['4. close']),float(TMS_data_day_before_yesterday['4. close']))
 
 
 
